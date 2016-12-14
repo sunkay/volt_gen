@@ -1,0 +1,2 @@
+defmodule VoltGen do
+end
